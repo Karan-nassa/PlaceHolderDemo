@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlaceHolderDemo</string>
+    <string name="error_check_internet">Please check your internet connectivity and try again</string>
+</resources>
